@@ -1,0 +1,1 @@
+This is a game with the purpose of running on a 2 digit LED microprocessor. The aim of the game is to follow 2 segments in a line illuminating and then repeating the sequence. Each correct answer will increment the total by 1 and increase how many steps in the sequence there are. It will indicate your final score at the end once you fail to remember the sequence correctly.
